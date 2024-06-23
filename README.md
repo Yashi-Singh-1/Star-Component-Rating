@@ -16,7 +16,7 @@ You can use as many (or as few) tools, libraries, and frameworks as you'd like. 
   <li> The component should be customizable, with an option to change the number of stars to be displayed. </li>
   <li> When the user clicks on a star to select a rating, the rating should be updated, and a corresponding message should be displayed.</li>
   <li> The component should ensure that hovering over the third star after selecting the fourth star highlights only the first, second and third stars.</li>
-  <li> Show the hover state of all the elements.<li>
+  <li> Show the hover state of all the elements.</li>
   <li> The component should be responsive and display correctly on different screen sizes. </li>
   <li> Make this landing page look as close to the design as possible.</li>
 </ol>
@@ -55,8 +55,8 @@ You can use as many (or as few) tools, libraries, and frameworks as you'd like. 
 <h2>Installation</h2>
 
 <ol>
-    <li>Clone the repository:</li>
-    <code> git clone https://github.com/Yashi-Singh-1/Star-Component-Rating.git </code>
+    <li>Clone the repository:</li>  
+    <code> git clone https://github.com/Yashi-Singh-1/Star-Component-Rating.git </code>    
     <li>Open <code>index.html</code> in your web browser.
 </ol>
 
@@ -75,9 +75,9 @@ You can use as many (or as few) tools, libraries, and frameworks as you'd like. 
 
 <ol>
     <li> Fork the repository. </li>
-    <li> Create your feature branch (git checkout -b feature/YourFeature). </li>
-    <li> Commit your changes (git commit -am 'Add some feature'). </li>
-    <li> Push to the branch (git push origin feature/YourFeature).</li>
+    <li> Create your feature branch (<code>git checkout -b feature/YourFeature</code>). </li>
+    <li> Commit your changes (<code>git commit -am 'Add some feature'</code>). </li>
+    <li> Push to the branch (<code>git push origin feature/YourFeature</code>).</li>
     <li> Open a pull request. </li>
 </ol>
 
